@@ -1,0 +1,15 @@
+.loginBox {
+    position: absolute;
+    min-width: 300px;
+    width: 650;
+    max-width: 800;
+    top: 25%;
+    left: 20%;
+    text-align: center;
+}
+
+.loginCard {
+    text-align: center;
+    padding: 200px;
+    
+}
