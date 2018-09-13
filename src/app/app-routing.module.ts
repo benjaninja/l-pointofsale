@@ -24,7 +24,7 @@ const routes: Routes = [
 
   //this must be last
   {
-    path: '**',
+    path: '**', /*** navigates to a 'page not found' custom error. You can choose what to do here */
     component: PagenotfoundComponent,
     pathMatch: 'full'
   }
